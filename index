@@ -1,1 +1,80 @@
 
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>LilyPichu | A theme based on @Melonturtle_ stream design</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="LilyPichu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A theme based on @Melonturtle_ stream design" />
+<meta property="og:description" content="A theme based on @Melonturtle_ stream design" />
+<link rel="canonical" href="https://nyri4.github.io/LilyPichu/" />
+<meta property="og:url" content="https://nyri4.github.io/LilyPichu/" />
+<meta property="og:site_name" content="LilyPichu" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="LilyPichu" />
+<script type="application/ld+json">
+{"description":"A theme based on @Melonturtle_ stream design","url":"https://nyri4.github.io/LilyPichu/","@type":"WebSite","headline":"LilyPichu","name":"LilyPichu","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/LilyPichu/assets/css/style.css?v=0359afbb4360bedf8bda25e91cce1dd36ffa8278">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/LilyPichu/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://nyri4.github.io/LilyPichu/">LilyPichu</a></h1>
+      
+
+      <h2><img src="https://nyri4.github.io/LilyPichu/assets/banner.png" alt="Banner" /></h2>
+<p><img src="https://nyri4.github.io/LilyPichu/assets/preview.png" alt="Preview" /></p>
+
+<h2 id="-installation">📥 Installation</h2>
+
+<h3 id="powercord--vizality">Powercord &amp; Vizality</h3>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/NYRI4/LilyPichu
+</code></pre></div></div>
+
+<h3 id="betterdiscord">BetterDiscord</h3>
+
+<p>Go <a href="https://betterdiscord.app/theme/LilyPichu">here</a> and save the file into your theme folder</p>
+
+<h2 id="️-customization">🖌️ Customization</h2>
+<p>Go into your theme folder and open :</p>
+
+<p><code class="language-plaintext highlighter-rouge">lilypichu.theme.css</code> for BetterDiscord</p>
+
+<p><code class="language-plaintext highlighter-rouge">variables.scss</code> for Powercord/Vizality</p>
+
+<h2 id="️-more-preview">🖼️ More preview</h2>
+<p>| Status picker | User modal | Aliucord |
+| :———: | :———: | :———: |
+| <img src="https://nyri4.github.io/LilyPichu/assets/status_picker.png" alt="Preview" />  | <img width="300" src="https://nyri4.github.io/LilyPichu/assets/modal.png" />&lt;/img&gt; | <img width="300" src="https://nyri4.github.io/LilyPichu/assets/preview-aliucord.png" />&lt;/img&gt; |</p>
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/NYRI4/LilyPichu/edit/main/README.md">Improve this page</a>.
+      </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
